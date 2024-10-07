@@ -10,5 +10,5 @@ services:
       - ./postgres-data:/var/lib/postgresql/data
     environment:
       POSTGRES_USER: admin
-      POSTGRES_PASSWORD: C2p7/59&70>;>a\#5lHoX5uS,LVK\o*~2&2h5Y.D
-      POSTGRES_DB: boss-nation
+      POSTGRES_PASSWORD: DN9z6JLAen728UpYFnyfKYEInALxykKUvYCWGz7EQueScSpEnu
+      POSTGRES_DB: deeplink
